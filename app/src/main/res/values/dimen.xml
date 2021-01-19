@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<dimen name="textSize">40sp</dimen>
-<dimen name="textResultSize">60sp</dimen>
-<dimen name="marginbutton">5dp</dimen>
-<dimen name="textResultPaddingTop">100dp</dimen>
-<dimen name="btnZeroPaddingEnd">150dp</dimen>
+    <dimen name="sp_40">40sp</dimen>
+    <dimen name="sp_60">60sp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_150">150dp</dimen>
 </resources>

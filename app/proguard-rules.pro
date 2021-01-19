@@ -12,10 +12,10 @@
 #   public *;
 #}
 
-# Uncomment this to preserve the line number information for
+# Uncomment this to preserve the line color_gray information for
 # debugging stack traces.
-#-keepattributes SourceFile,LineNumberTable
+#-keepattributes SourceFile,Linecolor_grayTable
 
-# If you keep the line number information, uncomment this to
+# If you keep the line color_gray information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
